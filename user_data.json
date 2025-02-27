@@ -1,16 +1,1 @@
-{
-    "6441392640": {
-        "hwid": "MGFmYTZjOWRiODk1ZTIxODM0MGRjMGY5YmViOTQ2OGZhNmQ5MzcxN2NkOTIwZDNiNTc3ZWE4NDVmMGNmMzQ3Yg==",
-        "approved": false,
-        "paid": false,
-        "expiry": null,
-        "transaction_id": null
-    },
-    "6441392640": {
-        "hwid": "MGFmYTZjOWRiODk1ZTIxODM0MGRjMGY5YmViOTQ2OGZhNmQ5MzcxN2NkOTIwZDNiNTc3ZWE4NDVmMGNmMzQ3Yg==",
-        "approved": true,
-        "paid": true,
-        "expiry": "2025-02-27T21:52:48.487732",
-        "transaction_id": "geuufufhtwh"
-    }
-}
+{"6441392640": {"hwid": "MGFmYTZjOWRiODk1ZTIxODM0MGRjMGY5YmViOTQ2OGZhNmQ5MzcxN2NkOTIwZDNiNTc3ZWE4NDVmMGNmMzQ3Yg==", "approved": true, "paid": true, "expiry": "2025-02-27T21:52:48.487732", "transaction_id": "geuufufhtwh"}, "6441392640": {"hwid": "MGFmYTZjOWRiODk1ZTIxODM0MGRjMGY5YmViOTQ2OGZhNmQ5MzcxN2NkOTIwZDNiNTc3ZWE4NDVmMGNmMzQ3Yg==", "approved": false, "paid": false, "expiry": null, "transaction_id": null}}
